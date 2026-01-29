@@ -1,0 +1,53 @@
+body {
+    background-repeat: no-repeat;
+    height: 1px;
+    background-size: cover;
+    scroll-behavior: unset;
+    background-image: url(image\ copy.png);
+} 
+
+h6 {
+    color: black;
+}
+
+#Id4 {
+    background-color: violet;
+    font-family: 'Courier New', Courier, monospace;
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+}
+
+.class5 {
+    color: orange;
+}
+
+#me1 {
+    color: brown;
+    background-color: black;
+    text-align: center;
+    width: 175px;
+    height: 50px;
+}
+
+.me2 {
+    color: blue;
+    background-color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    background-color: bisque;
+}
+
+.me4 {
+    background-color: aquamarine;
+}
+
+#me4 {
+    background-color: blueviolet;
+}
+
+h4 {
+    background-color: yellow;
+}
